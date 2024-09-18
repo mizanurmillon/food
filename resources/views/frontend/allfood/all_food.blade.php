@@ -1,0 +1,1 @@
+all_food.blade.php

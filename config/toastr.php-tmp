@@ -1,0 +1,23 @@
+
+Deprecated: The each() function is deprecated. This message will be suppressed on further calls in C:\Users\Md Mizanur Rahman\AppData\Roaming\Sublime Text\Packages\PHPTools\php.tools\codeFormatter.php on line 54
+<?php
+
+return [
+	'options'            => [
+		"closeButton"       => false,
+		"debug"             => false,
+		"newestOnTop"       => false,
+		"progressBar"       => false,
+		"positionClass"     => "toast-top-right",
+		"preventDuplicates" => false,
+		"onclick"           => null,
+		"showDuration"      => "300",
+		"hideDuration"      => "1000",
+		"timeOut"           => "5000",
+		"extendedTimeOut"   => "1000",
+		"showEasing"        => "swing",
+		"hideEasing"        => "linear",
+		"showMethod"        => "fadeIn",
+		"hideMethod"        => "fadeOut"
+	],
+];
